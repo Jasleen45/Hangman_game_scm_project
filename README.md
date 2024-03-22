@@ -35,3 +35,5 @@ Hangman is a classic word-guessing game where players attempt to guess a word le
 - ## Contributors
 
 - [Jasleen](https://github.com/Jasleen45)
+- [Ishika](https://github.com/issue05)
+- [Divisha](https://github.com/Divisha-Gupta1)
